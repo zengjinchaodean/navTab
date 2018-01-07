@@ -1,0 +1,11 @@
+html, body {
+  width: 100%;
+  height: 100%; }
+
+.g-header {
+  position: relative;
+  width: 100%;
+  height: 48px; }
+
+.g-con-box {
+  position: relative; }

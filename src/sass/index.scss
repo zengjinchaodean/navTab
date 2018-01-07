@@ -1,0 +1,34 @@
+$w-con-box:1180px;
+
+html,body{
+	width: 100%;
+	height: 100%;
+}
+.g-header{
+	position: relative;
+	width: 100%;
+	height: 48px;
+}
+.g-con-box{
+	position: relative
+}
+
+.floor {
+	height: 200px;
+}
+
+.nabtab {
+	position: fixed;
+	width: 100%;
+	height: 30px;
+	.tab {
+		display: inline-block;
+		height: 30px;
+		width: 20%;
+		background-color: yellow;
+		color: #fff;
+		.on {
+			background-color: #000;
+		}
+	}
+}
